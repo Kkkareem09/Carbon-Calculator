@@ -1,0 +1,52 @@
+body {
+  background-color: #f3f8f3;
+  color: #1f3d2b;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+.page {
+  padding: 2rem 1rem;
+}
+
+.intro {
+  padding: 2rem 0 1.5rem;
+}
+
+h1 {
+  font-weight: 700;
+  color: #14532d;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #c0392b;
+  margin-bottom: 1.25rem;
+}
+
+.main-content {
+  padding: 1.5rem 0 2rem;
+}
+
+.main-content h4 {
+  font-weight: 700;
+  color: #14532d;
+  margin-bottom: 1rem;
+}
+
+.main-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.btn-primary {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.footer-text {
+  padding-top: 1.5rem;
+  color: #5b6b60;
+}
